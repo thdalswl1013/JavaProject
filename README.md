@@ -1,9 +1,7 @@
 # PROJECT JavaProject
 
-## 구현 일정
-<br>
+구현 일정
 ![image1](https://user-images.githubusercontent.com/110325367/229275979-24cb151d-3fdf-49aa-bbc8-45e079f40492.png)
-</br>
 
 # A Case Study of Object detection via Generated image Using deep learning model based on image generation
 <br>
