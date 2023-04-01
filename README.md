@@ -1,4 +1,4 @@
-# Java Project -너플래너
+# Java Project - 플래너
 
 🌟**사용 도구**<br><br>
 
