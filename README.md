@@ -51,16 +51,7 @@
 <br> 3. 데이터셋 구축: 데이터로 사용할 이미지 파일 화질 개선<br>
 
 
-<br><br><br>
-<a href="https://drive.google.com/file/d/1CtBl-WSTkDsyFcMMNTLSv65IHZAVuDa0/view?usp=share_link">시연영상</a>
-## FrontEnd
-      [<img src="https://user-images.githubusercontent.com/94797349/203263241-95cb7160-0a81-4bc7-ae12-0ad275a40b60.png" width="100" height="150"/>](https://www.figma.com/files/recent?fuid=1158726737653483793)              [<img src="https://user-images.githubusercontent.com/94797349/203263379-dab35c9f-8284-44dc-9a2f-e18d51c38a7d.png" width="120" height="150"/>](https://developer.mozilla.org/ko/docs/Web/CSS)              [<img src="https://user-images.githubusercontent.com/94797349/203263442-e8c75941-9733-4723-988d-fa0c116fa5c4.png" width="140" height="150"/>](https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
-
-<br><br><br>
-
-
-
-# conference
+# Demo
 
   > 데모 영상 : [youtube link](https://youtu.be/YBwd2qo4Yec)
 
