@@ -3,6 +3,9 @@
 
 <a href="https://github.com/Dabinishere/Object-detection-optimization-study-of-deformed-images/blob/main/README.md#a-case-study-of-object-detection-via-generated-image-using-deep-learning-model-based-on-image-generation">Link</a>
 
+
+![image1](https://user-images.githubusercontent.com/110325367/229275979-24cb151d-3fdf-49aa-bbc8-45e079f40492.png)
+
 # A Case Study of Object detection via Generated image Using deep learning model based on image generation
 <br>
 <div align="center">
