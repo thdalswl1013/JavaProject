@@ -19,10 +19,10 @@
 
 🌟**구현 결과**<br><br>
 
-![image2](https://user-images.githubusercontent.com/110325367/229276627-bd3fcde4-44b8-4a32-9104-3bb147672c5c.png)
+![image2](https://user-images.githubusercontent.com/110325367/229276809-4dda90ef-5531-4ecc-b8c6-d3d925d20e9b.pn)
 
 
-
+![image3](https://user-images.githubusercontent.com/110325367/229276746-8c4fe2a8-5af3-40d9-941b-f37116599e36.png)
 
 
 
