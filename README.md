@@ -1,5 +1,8 @@
 # PROJECT JavaProject
 
+🌟**사용 도구**<br><br>
+
+![image0](https://user-images.githubusercontent.com/110325367/229277510-0646f23b-7b11-4018-a877-54b6c49ea920.png)
 
 🌟**구현 일정**<br><br>
 
@@ -36,7 +39,7 @@
 ![image6](https://user-images.githubusercontent.com/110325367/229277039-90b1c2dd-8dd6-436f-8f5c-4bee8504022a.png)
 
 
-* 일정 기읽어주기
+* 일정 읽어주기
 
 ![image7](https://user-images.githubusercontent.com/110325367/229277081-67b32981-d0c7-4d0c-9a3b-8b3fbc3096e6.png)
 
