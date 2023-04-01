@@ -51,6 +51,6 @@
 
 # conference
 
-  > 회의록 : [회의록 DRIVE](https://docs.google.com/document/d/1fIRLpuA7V0Jb0l6fWg8KfU0ae6wXg9rNU_Z_M0-um4E/edit?usp=sharing)
+  > 데모 영상 : [데모영상](https://youtu.be/YBwd2qo4Yec)
 
 <br>
