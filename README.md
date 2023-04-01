@@ -1,9 +1,6 @@
 # PROJECT_JavaProject
 
-
-<a href="https://github.com/Dabinishere/Object-detection-optimization-study-of-deformed-images/blob/main/README.md#a-case-study-of-object-detection-via-generated-image-using-deep-learning-model-based-on-image-generation">Link</a>
-
-
+# 구현 
 ![image1](https://user-images.githubusercontent.com/110325367/229275979-24cb151d-3fdf-49aa-bbc8-45e079f40492.png)
 
 # A Case Study of Object detection via Generated image Using deep learning model based on image generation
@@ -127,11 +124,7 @@ DALL-E-2로 생성한 이미지는 기존에 노이즈가 크지 않아, 디노�
 
 <br><br><br>
 
-## BackEnd
-                                                            
-               [<img src="https://user-images.githubusercontent.com/94797349/205436530-72d1b647-6d97-4498-9af2-cba5e446e58f.png" width="150" height="150"/>](https://www.djangoproject.com/)              [<img src="https://user-images.githubusercontent.com/94797349/205434462-0fdbbe9e-b77f-48ee-b835-da8f31b57200.png" width="200" height="100"/>](https://opentutorials.org/course/4904)
-  
-  
+
 
 # conference
 
