@@ -51,6 +51,6 @@
 
 # conference
 
-  > 데모 영상 : [데모영상](https://youtu.be/YBwd2qo4Yec)
+  > 데모 영상 : [youtube link](https://youtu.be/YBwd2qo4Yec)
 
 <br>
